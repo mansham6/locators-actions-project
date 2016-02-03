@@ -1,4 +1,4 @@
-## Basic Automation Project
+## Locators and actions Project
 
 #### Selenium Web Driver Structured Project
 
@@ -7,4 +7,4 @@
  * TestNG
  * Selenium
 
- [Jean-francois Nepton](https://github.com/sqaSeleniumBC)
+ [Mansour Shamsai]
